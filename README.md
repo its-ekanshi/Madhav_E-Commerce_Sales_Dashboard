@@ -8,3 +8,30 @@
   * Created connections, join new tables, calculation to manipulate data and enable user driven parameters for <br>  visualization. <br>
   * Used different types of customized visualization ( bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers,etc.).
 </h3>
+<h2>Insights</h2>
+<h3>
+**Sales by Geography**
+***Maharashtra Dominates:**
+Maharashtra is the top-performing state in terms of sales amount.
+
+**Sales by Product Category**
+***Clothes are the Top Seller:**
+Clothes constitute the largest share (63%) of the total quantity sold, followed
+by electronics (21%) and furniture (17%).
+
+**Sales by Customer**
+***Harivansh is the Top Customer:**
+Harivansh is the highest-spending customer.
+
+**Sales by Payment Method**
+***Cash on Delivery (COD) is preferred.** 
+COD is the most popular payment method, accounting for 44% of transactions.
+
+**Sales by Sub-Category and Profitability**
+***Printers are the most profitable.***
+Printers contribute the highest profit among sub-categories.
+
+**Seasonal Trends**
+***Profit Fluctuations:**
+Profit shows significant month-to-month fluctuations. There's a notable loss in May, and a peak in November.
+</h3>
