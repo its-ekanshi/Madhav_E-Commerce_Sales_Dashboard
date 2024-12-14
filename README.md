@@ -10,28 +10,28 @@
 </h3>
 <h2>Insights</h2>
 <h3>
-1) Sales by Geography
+1) Sales by Geography-
 Maharashtra Dominates:
 Maharashtra is the top-performing state in terms of sales amount.
 
-2) Sales by Product Category
+2) Sales by Product Category-
 Clothes are the Top Seller:
 Clothes constitute the largest share (63%) of the total quantity sold, followed
 by electronics (21%) and furniture (17%).
 
-3) Sales by Customer
+3) Sales by Customer-
 Harivansh is the Top Customer:
 Harivansh is the highest-spending customer.
 
-4) Sales by Payment Method
+4) Sales by Payment Method-
 Cash on Delivery (COD) is preferred.
 COD is the most popular payment method, accounting for 44% of transactions.
 
-5) Sales by Sub-Category and Profitability
+5) Sales by Sub-Category and Profitability-
 Printers are the most profitable.
 Printers contribute the highest profit among sub-categories.
 
-6) Seasonal Trends
+6) Seasonal Trends-
 Profit Fluctuations:
 Profit shows significant month-to-month fluctuations. There's a notable loss in May, and a peak in November.
 </h3>
