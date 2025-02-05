@@ -1,4 +1,4 @@
-# Madhav_ECommerce_Sales_Dashboard
+# Madhav_E-Commerce_Sales_Dashboard
 <h2>Project Objective</h2>
 <h3>Owner of Madhav Store wants us to help them create a Dashboard to track and analyze their online sales across India.</h3>
 <h2>Project Learnings</h2>
