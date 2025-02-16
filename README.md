@@ -5,13 +5,12 @@ This project provides an **interactive sales dashboard** built using **Power BI 
 
 ---
 
-<h2>Project Learnings</h2>
-<h3>
-  * Created an interactive dashboard to track and analyze online sales data. <br>
-  * Used complex parameters to drill down in worksheet and customization using filters and slicers. <br>
-  * Created connections, joined new tables, and performed calculations to manipulate data, enabling user-driven parameters for visualization. <br>
-  * Used different types of customized visualization ( bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers,etc.).
-</h3>
+
+### **📘 Project Learnings**  
+✔️ Developed an **interactive dashboard** to track and analyze online sales data.  
+✔️ Utilized **advanced parameters** for drill-down analysis with **filters and slicers** for dynamic customization.  
+✔️ Established **data connections, joined tables, and performed calculations** to enable user-driven insights.  
+✔️ Implemented a variety of **custom visualizations**, including bar charts, pie charts, donut charts, clustered bar charts, scatter plots, line charts, area charts, maps, and slicers for enhanced data representation.  
 
 ---
 
